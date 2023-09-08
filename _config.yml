@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  by Authors
+title: Troika (Reunion after Fifteen Years)
+email: jwr@illinois.edu
+description: An Open Access Documentary Edition
+  by John Randolph (University of Illinois Urbana-Champaign)
 
 #baseurl: ""
 #url: ""
